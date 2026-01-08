@@ -1,0 +1,25 @@
+app/
+ ├─ layout.tsx       
+ ├─ page.tsx          
+ └─ globals.css
+
+components/
+ ├─ layout/
+ │   └─ Navbar.tsx   
+ │
+ └─ order/
+     ├─ OrderSuccess.tsx    
+     │   ├─ SuccessIcon 
+     │   └─ PrescriptionCard 
+     │
+     ├─ DeliveryDetails.tsx 
+     ├─ OrderSummary.tsx    
+     ├─ PaymentInfo.tsx    
+     └─ OrderActions.tsx    
+
+public/
+ ├─ Logo.png
+ ├─ abstract.png    
+ ├─ card.png        
+ ├─ image.png       
+ └─ Frame.png        
