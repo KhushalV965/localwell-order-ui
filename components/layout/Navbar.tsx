@@ -70,7 +70,7 @@ function NavActions() {
       <Action icon={<ShoppingCart size={18} />} label="Cart" />
 
       <Action
-        icon={<Plus size={18} strokeWidth={2.5} />}
+        icon={<Plus size={18} strokeWidth={4.5} />}
         label="Become a seller"
         className="text-[#60096A] font-medium"
         hiddenOnMobile
